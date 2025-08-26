@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:bhupi.14000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/bhupinder-singh-243488289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://leetcode.com/u/bhupinder_1411/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"></a>
   <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20views" />
 </p>
 
